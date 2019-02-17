@@ -26,7 +26,7 @@
     <br>
     <div id="link-div"></div>
 
-    <?php include('landing_page/php-scripts/dir.php');?>
+    <?php include('dir.php');?>
 
     <script>
 
